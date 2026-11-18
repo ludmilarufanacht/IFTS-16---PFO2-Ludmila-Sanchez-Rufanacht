@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio de Ludmila
 
 Portfolio personal desarrollado con HTML y CSS para presentar mi perfil, las tecnologías que estoy aprendiendo y mis medios de contacto.
@@ -12,3 +13,4 @@ Portfolio personal desarrollado con HTML y CSS para presentar mi perfil, las tec
 ## Cómo verlo
 
 Abrí `index.html` en un navegador. Los estilos están en `css/styles.css` y los recursos gráficos en `images/`.
+=======
